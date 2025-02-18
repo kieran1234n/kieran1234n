@@ -7,7 +7,7 @@ Incident Response to a DDoS Attack
 1. Initial Analysis and Identification
 Upon noticing abnormal network activity, an analysis of traffic was conducted to identify the target servers. Using a SIEM tool, network logs were reviewed, revealing that the targeted server had an IP address of 192.168.1.100. The attack originated from multiple IP addresses distributed across various countries, indicating a Distributed Denial of Service (DDoS) attack.
 
-![DDOS attack](DDOS 1.JPG)
+![DDOS attack](DDOS1.JPG)
  
 3. Containment and Mitigation
 To mitigate the attack, the following steps would be considered:
