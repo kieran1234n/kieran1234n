@@ -9,7 +9,7 @@ Upon noticing abnormal network activity, an analysis of traffic was conducted to
 
 ![DDOS attack](DDOS1.JPG)
  
-3. Containment and Mitigation
+2. Containment and Mitigation
 To mitigate the attack, the following steps would be considered:
 •	Traffic Filtering: Implemented firewall rules to filter out traffic from known malicious IPs.
 •	Load Balancing: Configured a load balancer to distribute traffic across multiple servers, reducing strain on the targeted server.
@@ -17,14 +17,14 @@ To mitigate the attack, the following steps would be considered:
 •	DDoS Protection Services: Engaged third-party cloud-based DDoS protection services to absorb and mitigate malicious traffic.
 As a last resort, IP changes were considered to minimize continued targeting.
  
-4. Eradication and Recovery
+3. Eradication and Recovery
 This step aims to eliminate any residual threats and restore normal operations:
 •	Network Scanning: Conducted scans to detect open ports, backdoors, or any malicious software left behind.
 •	Traffic Monitoring: Continued real-time monitoring to ensure no further anomalies were detected.
 •	Patch Management: Ensured that all servers and network appliances were patched and up to date to prevent future exploits.
 •	Network Reset: If necessary, reconfigured network settings, including reallocating IP addresses and resetting affected devices.
  
-5. Post-Incident Analysis and Documentation
+4. Post-Incident Analysis and Documentation
 Once the attack was mitigated and normal operations restored, a detailed report was compiled, including:
 •	Attack Vectors Identified: Sources, methods, and patterns of attack.
 •	Response Actions Taken: Steps implemented to contain and mitigate the attack.
