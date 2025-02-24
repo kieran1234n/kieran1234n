@@ -6,7 +6,7 @@ Brute Force Attack
 
 In this scenario, an attacker conducted a port scan and identified that port 22 was open due to a misconfigured firewall. Using Hydra, they attempted to crack user passwords within the network, but these attempts were unsuccessful. To strengthen defenses, I configured Fail2ban, an Intrusion Prevention System (IPS), to block all unknown IPs making SSH attempts. Additionally, Fail2ban was set up to send email notifications to relevant parties for real-time alerts. By blacklisting IP addresses that made multiple failed SSH login attempts, Fail2ban effectively mitigated further brute-force attacks.
 
-![Brute Force Attack](Brute-Force-Attack.png)
+![Brute Force Attack](BruteForceAttack.png)
 
 
 
@@ -28,7 +28,7 @@ For this I focused on mimicking data from something like a malware attack, in re
 This chart focuses solely on infected users, with the filters and queries tailored to isolate key IOC along with relevant affected users and their contact details. Crucially there are cve IDs available, with these I can quickly search through the cve database to find. This tells me how others have dealt with this particular threat and gives me details about what to expect.
 
 
-![Systems Log](Systems-Log.png)
+![Systems Log](SystemsLog.png)
 
 
 
@@ -39,7 +39,7 @@ This chart focuses solely on infected users, with the filters and queries tailor
 This tool was created through the use of a windows vm in which I disabled windows defender and installed Flare VM. The purpose of it is to create an isolated environment for testing static and dynamic code. It’s not connected to the internet but through tools like inetsim and remnux it is possible to mimic an online network giving the chance for malicious code to run without it impacting systems. 
 
 
-![Malware Analysis Lab](Malware-Analysis-Labe.png)
+![Malware Analysis Lab](MalwareAnalysisLab.png)
 
 
 ## Section 5 Security Reports Examples
