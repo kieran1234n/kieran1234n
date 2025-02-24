@@ -28,7 +28,7 @@ For this I focused on mimicking data from something like a malware attack, in re
 This chart focuses solely on infected users, with the filters and queries tailored to isolate key IOC along with relevant affected users and their contact details. Crucially there are cve IDs available, with these I can quickly search through the cve database to find. This tells me how others have dealt with this particular threat and gives me details about what to expect.
 
 
-![Systems Log](Systems Log.png)
+![Systems Log](Systems-Log.png)
 
 
 
