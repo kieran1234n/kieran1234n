@@ -15,8 +15,12 @@ In this scenario, an attacker conducted a port scan and identified that port 22 
 
 This section highlights projects focused on interpreting log data to strengthen security postures and enhance threat detection. Leveraging SIEM tools I’ve worked on transforming raw log data into actionable insights, enabling proactive security monitoring, incident response and compliance tracking.
 
-Network Traffic Log – DDoS Incident Overview
+Network Traffic Log
+
 This log highlights key details from a simulated DDoS attack scenario. The network data in this case would typically be sourced from firewalls, switches, routers, IDS/IPS, and network monitoring tools. The focus here is on identifying network attack patterns as soon as possible, giving the team the best possible chance of dealing with them in the right way.
+
+![DDOS](DDOS.png)
+
 Anomalous traffic targeting server 192.168.1.100 was detected, with IP addresses linked to the attack spread globally—classic signs of a Distributed Denial of Service (DDoS) event. Filters were applied to isolate malicious IPs, and geo-blocking was introduced to limit regions showing high volumes of hostile activity. Firewall rules were tightened, and traffic was rerouted using load balancers to reduce strain on the primary target.
 
 
