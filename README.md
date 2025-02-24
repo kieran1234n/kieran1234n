@@ -31,7 +31,7 @@ Anomalous traffic targeting server 192.168.1.100 was detected, with IP addresses
 For this I focused on mimicking data from something like a malware attack, in reality the source of this data would likely come from EDR logs. Some users are infected with several IOCs. The log below gives a general view of system health
 
 
-This chart focuses solely on infected users, with the filters and queries tailored to isolate key IOC along with relevant affected users and their contact details. Crucially there are cve IDs available, with these I can quickly search through the cve database to find. This tells me how others have dealt with this particular threat and gives me details about what to expect.
+Another chart focuses solely on infected users, with the filters and queries tailored to isolate key IOC along with relevant affected users and their contact details. Crucially there are cve IDs. With these I can quickly search through the cve database to find information and advice on how others have dealt with this particular threat and find details about what to expect.
 
 
 ![Systems Log](SystemsLog.png)
