@@ -51,10 +51,9 @@ This tool was created through the use of a windows vm in which I disabled window
 ## Security Reports Examples
 ![Incident Report example](Incident%20Report.pdf)
 
-## Online Tools and Resources
-## Online Tools & Resources  
+## Online Tools and Resources 
 
-### IP, Domain & URL Analysis  
+### IP, Domain and URL Analysis  
 - [AbuseIPDB](https://www.abuseipdb.com/) – Checks if an IP has been reported for malicious activity.  
 - [URLScan.io](https://urlscan.io/) – Scans and analyzes websites for threats like phishing and malware.  
 - [MXToolbox](https://mxtoolbox.com/) – Looks up DNS records, email security settings, and blacklists.  
@@ -64,7 +63,7 @@ This tool was created through the use of a windows vm in which I disabled window
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) – Cloud-based malware analysis and sandboxing.  
 - [DocGuard](https://www.docguard.io/) – Analyzes suspicious documents for hidden threats.  
 
-### Threat Intelligence & Research  
+### Threat Intelligence and Research  
 - [MITRE ATT&CK](https://attack.mitre.org/) – A framework mapping cyberattack techniques and tactics.  
 - [Fortinet Threat Intelligence](https://www.fortiguard.com/) – Real-time threat data and malware reports.  
 - [CVE Details](https://www.cvedetails.com/) – Searches for known software vulnerabilities (CVEs).  
