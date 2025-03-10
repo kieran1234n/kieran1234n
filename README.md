@@ -45,7 +45,7 @@ Another chart focuses solely on infected users, with the filters and queries tai
 This tool was created through the use of a windows vm in which I disabled windows defender and installed Flare VM. The purpose of it is to create an isolated environment for testing static and dynamic code. It’s not connected to the internet but through tools like inetsim and remnux it is possible to mimic an online network giving the chance for malicious code to run without it impacting systems. 
 
 
-![Malware Analysis Lab](MalwareAnalysisLab.png)
+![Malware Analysis Lab](MalwareAnalysisLab2.png)
 
 
 ## Security Reports Examples
