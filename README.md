@@ -34,7 +34,7 @@ The source of this data often comes from things like EDR logs. In this instance 
 Another chart focuses solely on infected users, with the filters and queries tailored to isolate key IOCs along with relevant affected users and their contact details. Crucially there are cve IDs. With these I can quickly search through the cve database to find information and advice on how others have dealt with this particular threat and find details about what to expect.
 
 
-![Systems Log](SystemsLog.png)
+![Systems Log](SystemsLog2.png)
 
 
 
