@@ -15,6 +15,14 @@ In this scenario, an attacker conducted a port scan and identified that port 22 
 
 This section focuses on projects that leverage SIEM tools to transform raw log data into actionable insights, enhancing threat detection and security posture. By filtering and visualizing key data points, these dashboards enable proactive monitoring, incident response, and compliance tracking. The goal is to highlight indicators of compromise (IOCs), making security threats easier to detect and interpret.
 
+**Microsoft Azure Sandbox**
+
+This project involved deploying a Windows VM honeypot in Microsoft Azure to analyze attacker behavior. The virtual network, and Network Security Group rules were configured to allow all traffic while keeping the network isolated. To make the system more attractive to attackers, the Windows Firewall was disabled.
+Initial log analysis in the VM’s Event Viewer revealed numerous failed login attempts. To gain deeper insights, logs were ingested into Microsoft Sentinel. A database containing IP address ranges and their corresponding countries was then uploaded, enabling visualization of the geographic distribution of attacker IPs.
+
+
+![CloudSandbox](CloudProject.png)
+
 **Network Traffic Log**
 
 This log highlights key details from a simulated DDoS attack scenario. The network data in this case would typically be sourced from firewalls, switches, routers, IDS/IPS, and network monitoring tools. The focus here is on identifying network attack patterns as soon as possible, giving the team the best possible chance of dealing with them in the right way.
