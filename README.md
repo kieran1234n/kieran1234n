@@ -13,7 +13,7 @@ In this scenario, an attacker conducted a port scan and identified that port 22 
 
 ## Log Analytics and Security Monitotoring
 
-This section highlights projects focused on interpreting log data to strengthen security postures and enhance threat detection. Leveraging SIEM tools I’ve worked on transforming raw log data into actionable insights, enabling proactive security monitoring, incident response and compliance tracking.
+This section focuses on projects that leverage SIEM tools to transform raw log data into actionable insights, enhancing threat detection and security posture. By filtering and visualizing key data points, these dashboards enable proactive monitoring, incident response, and compliance tracking. The goal is to highlight indicators of compromise (IOCs), making security threats easier to detect and interpret.
 
 **Network Traffic Log**
 
