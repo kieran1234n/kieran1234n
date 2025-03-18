@@ -1,7 +1,7 @@
 ##  Homepage
 * Log Analytics and Monitoring
 
-**[Azure Sandbox Environment]( https://github.com/kieran1234n/Malware-Analysis-Lab.git)
+**[Azure Sandbox Environment]( https://github.com/kieran1234n/Microsoft-Azure-Sandbox-Environment)
 
 **[Network Security Log]( https://github.com/kieran1234n/Network-Security-Log)
 
@@ -9,7 +9,7 @@
 
 * Other
 
-**[Malware Analysis Lab]( https://github.com/kieran1234n/Microsoft-Azure-Sandbox-Environment)
+**[Malware Analysis Lab]( https://github.com/kieran1234n/Malware-Analysis-Lab.git)
 
 **[Simulated Brute Force Attack]( https://github.com/kieran1234n/Simulated-Brute-Force-Attack-Analysis)
 
