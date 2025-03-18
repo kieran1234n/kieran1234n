@@ -17,18 +17,6 @@
 
 This section focuses on projects that leverage SIEM tools to transform raw log data into actionable insights, enhancing threat detection and security posture. By filtering and visualizing key data points, these dashboards enable proactive monitoring, incident response, and compliance tracking. The goal is to highlight indicators of compromise (IOCs), making security threats easier to detect and interpret.
 
-
-
-
-## Malware Analysis
-
-
-This tool was created through the use of a windows vm in which I disabled windows defender and installed Flare VM. The purpose of it is to create an isolated environment for testing static and dynamic code. It’s not connected to the internet but through tools like inetsim and remnux it is possible to mimic an online network giving the chance for malicious code to run without it impacting systems. 
-
-
-![Malware Analysis Lab](MalwareAnalysisLab2.png)
-
-
 ## Security Reports Examples
 ![Incident Report example](IncidentReport.pdf)
 
