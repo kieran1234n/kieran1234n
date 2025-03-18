@@ -16,7 +16,7 @@ This section focuses on projects that leverage SIEM tools to transform raw log d
 [Simulated Brute Force Attack]( https://github.com/kieran1234n/Simulated-Brute-Force-Attack-Analysis)
 
 
-## Security Reports Examples
+## Security Reports Example
 ![Incident Report example](IncidentReport.pdf)
 
 ## Online Tools and Resources 
