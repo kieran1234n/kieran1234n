@@ -18,17 +18,6 @@
 This section focuses on projects that leverage SIEM tools to transform raw log data into actionable insights, enhancing threat detection and security posture. By filtering and visualizing key data points, these dashboards enable proactive monitoring, incident response, and compliance tracking. The goal is to highlight indicators of compromise (IOCs), making security threats easier to detect and interpret.
 
 
-**Network Traffic Log**
-
-This log highlights key details from a simulated DDoS attack scenario. The network data in this case would typically be sourced from firewalls, switches, routers, IDS/IPS, and network monitoring tools. The focus here is on identifying network attack patterns as soon as possible, giving the team the best possible chance of dealing with them in the right way.
-
-![DDOS](DDOS1.JPG)
-
-Anomalous traffic targeting server 192.168.1.100 was detected, with IP addresses linked to the attack spread globally—classic signs of a Distributed Denial of Service (DDoS) event. Filters were applied to isolate malicious IPs helping identify IOCs. At this stage actions could be taken such as geo-blocking could be introduced to limit regions showing high volumes of hostile activity,  Firewall rules were tightened, and traffic rerouted using load balancers to reduce strain on the primary target.
-
-![DDOS](DDOS2.JPG)
-
-
 **Systems log with infected users**
 
 The source of this data often comes from things like EDR logs. In this instance I wanted to mimick a scenario with malware infected systems to put an emphasis on several IOCs that can be found within this log type. The dashboard below gives a general view of system health
