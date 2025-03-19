@@ -17,7 +17,7 @@ This section focuses on projects that leverage SIEM tools to transform raw log d
 
 
 ## Security Reports Example
-![Incident Report example](IncidentReport.pdf)
+![Incident Report example](IncidentReport)
 
 ## Online Tools and Resources 
 
