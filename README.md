@@ -6,7 +6,7 @@
 
 ## Threat Hunting and Security Operations
 
-[Threat Hunting (Tor)]()
+[Threat Hunting (Tor)](https://github.com/kieran1234n/Threat-Hunting)
 ## Log Analytics and Security Monitotoring
 
 This section focuses on projects that leverage SIEM tools to transform raw log data into actionable insights, enhancing threat detection and security posture. By filtering and visualizing key data points, these dashboards enable proactive monitoring, incident response, and compliance tracking. The goal is to highlight indicators of compromise (IOCs), making security threats easier to detect and interpret.
