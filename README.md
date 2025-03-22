@@ -2,20 +2,19 @@
 
 ## Vulnerability Management
 
-[Remidiating Vulnerabilities](https://github.com/kieran1234n/Vulnerability-Management)
+[Vulnerability Remediation](https://github.com/kieran1234n/Vulnerability-Management)
 
-## Threat Hunting and Security Operations
+
+## Log Analytics, Security Monitotoring, and Threat Hunting
+
 
 [Threat Hunting (Tor)](https://github.com/kieran1234n/Threat-Hunting)
-## Log Analytics and Security Monitotoring
 
-This section focuses on projects that leverage SIEM tools to transform raw log data into actionable insights, enhancing threat detection and security posture. By filtering and visualizing key data points, these dashboards enable proactive monitoring, incident response, and compliance tracking. The goal is to highlight indicators of compromise (IOCs), making security threats easier to detect and interpret.
+[Azure Logs Analysis]( https://github.com/kieran1234n/Microsoft-Azure-Sandbox-Environment)
 
-[Azure Logs]( https://github.com/kieran1234n/Microsoft-Azure-Sandbox-Environment)
+[Network Security Logs Analysis]( https://github.com/kieran1234n/Network-Security-Log)
 
-[Network Security Logs]( https://github.com/kieran1234n/Network-Security-Log)
-
-[System logs]( https://github.com/kieran1234n/System-log-analysis-with-Infected-users)
+[System logs Analysis]( https://github.com/kieran1234n/System-log-analysis-with-Infected-users)
 
 ## Other
 
