@@ -2,8 +2,6 @@
 
 Welcome to my cyber security portfolio. Within this repository you'll find | Log simulations showcasing various attack types | Visualisations of data that help in threat detection and incident response | Detailed analysis and research of security incidents | And sample report documents
 
-Resources
-
 
 ## Vulnerability Management
 
